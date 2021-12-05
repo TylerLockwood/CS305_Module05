@@ -1,6 +1,9 @@
 # CS305_Module05
 I am currenly working a a restaurant management system. It is going to be python program that uses sqllite3.
 
+# Payment module
+Added a new payment module compatible with Apple Pay.
+
 ---
 
 ## Contributors
