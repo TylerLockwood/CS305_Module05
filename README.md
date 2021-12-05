@@ -5,6 +5,7 @@ I am currenly working a a restaurant management system. It is going to be python
 
 ## Contributors
 - Tyler Lockwood <tcl72@nau.edu>
+- Javier Herrer <jh3549@nau.edu>
 
 ---
 
